@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/41c484c8-d246-4bf4-a7b9-2828434a7381)# Food Delivery App
+# Food Delivery App
 ## This is a simple food delivery application built using Python and Tkinter. The app allows users to browse a menu, select food items, specify quantities, and place an order for delivery.
 
 # Features
@@ -19,8 +19,8 @@ Run the application:
 python main.py
 
 # screenshots of the App
-<img src="![Screenshot 2024-09-08 130008](https://github.com/user-attachments/assets/2636aebc-2e6c-4b6c-9b80-3a5afab0cdf8)
-" alt="Description" width="500">
+![image](https://github.com/user-attachments/assets/41c484c8-d246-4bf4-a7b9-2828434a7381)
+
 
 
 
